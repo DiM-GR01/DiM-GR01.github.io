@@ -14,4 +14,4 @@ newmtl Material__43
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd D:\DAVIDE-PC\Documenti\UNIVERSITA'\07_Magistrale ACC primo anno\DENTRO IL MUSEO\Esercitazione - esposizione al lingotto\QR code\media\visual.jpg
+	map_Kd visual.jpg
